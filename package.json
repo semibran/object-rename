@@ -1,16 +1,16 @@
 {
-  "name": "object-rename",
-  "version": "0.1.1",
-  "description": "Rename an object's keys using a map",
-  "keywords": [
-		"object",
-		"rename"
-	],
-  "main": "index.js",
-  "license": "MIT",
-  "author": "Brandon Semilla (https://github.com/semibran)",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/semibran/object-rename.git"
-  }
+ "name": "object-rename",
+ "version": "0.1.1",
+ "description": "Rename an object's keys using a map",
+ "keywords": [
+  "object",
+  "rename"
+ ],
+ "main": "index.js",
+ "license": "MIT",
+ "author": "Brandon Semilla (https://github.com/semibran)",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/semibran/object-rename.git"
+ }
 }
