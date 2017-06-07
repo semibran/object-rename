@@ -1,6 +1,6 @@
 {
   "name": "object-rename",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rename an object's keys using a map",
   "keywords": [
 		"object",
